@@ -1,5 +1,5 @@
-# Indigo
-The Miiverse clone to end all Miiverse clones, for real this time. **NOTICE:** This code is WIP and is only being posted to fix errors more easily.
+# InVerse
+
 ## What is this?
 See [the FAQ](https://indigo.cafe/help/faq) if you have any questions about this. Long story short, this is the most recent in a long line of similar-looking social networks known as "[Miiverse](https://miiverse.nintendo.net/) clones" which was created for speed, new features, and getting away from the bad ownership and administration of the previous iterations.
 ## Installation
@@ -12,12 +12,6 @@ See [the FAQ](https://indigo.cafe/help/faq) if you have any questions about this
 7. Build the server with `go build` and then run the new program that is created, or use `go run *.go` (Linux/MacOS only).
 8. Make an account, give yourself admin through the MySQL CLI (`UPDATE users SET level = 9 WHERE id = 1`, for example) or your favorite database management interface (e.g. PHPMyAdmin), and start making some communities!
 ## Credits
-Lead developers: [PF2M](https://github.com/PF2M), [EnergeticBark](https://github.com/EnergeticBark), [Arian](https://github.com/ariankordi) (new)
-
-Developers: Ben, Triangles, Chance (previously), jod (on slaj)
-
-Artwork: Spicy, Inverse, Gnarly
-
-Marketing: Pip
+Indigo:source code
 ## Anything else?
-Not much yet, thanks for asking.
+yea, dont use it
